@@ -50,7 +50,8 @@ This project uses **Deep Learning (CNNs)** to automatically detect whether a per
 - Successfully detected faces with and without masks in real-time.  
 
 ---
-
+### Deployment Link
+https://huggingface.co/spaces/suvarnapoturi18/Face_Mask_Detection?logs=container
 ### Future Improvements
 - Improve accuracy with Transfer Learning (MobileNetV2, ResNet50).  
 - Deploy as a **web app** (Flask/Streamlit).  
